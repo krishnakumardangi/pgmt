@@ -28,7 +28,7 @@ This folder contains file realted to last two part of our Term Project.
 1. Run Matlab Simulink model to get data in csv file
 2. Keep data in Client Computer
 3. To upload data from csv file to server run:
-```python3 NTP_Client_to_Server.py```
+```python3 main.py```
 
 ### Discussion
 This folder contains data sets of frequency, program, README.md file, Matlab Simulink Model, key to access and report with future plan. This folder conatins sensitive data, please avoid release at public space.
